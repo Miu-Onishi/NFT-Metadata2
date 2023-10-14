@@ -1,2 +1,2 @@
-# NFT-Metadata2
+# sample-NFT-metadata
 Created with CodeSandbox
